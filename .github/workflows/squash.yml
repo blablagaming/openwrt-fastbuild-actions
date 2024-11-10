@@ -34,7 +34,7 @@ jobs:
         mode:
           - normal
           - test
-        target: []
+        target: [netgear_ex6200v2]
         include:
         - mode: normal
           title: Squashing builder
